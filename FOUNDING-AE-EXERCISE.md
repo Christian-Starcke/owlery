@@ -28,26 +28,49 @@ I focused on **Food & Beverage, Cold Chain, CPG, and adjacent consumer brands** 
 
 ## 2. Sample Outreach
 
-**Account used:** *[Company name from list above]*  
+**Account used:** Thrive Market  
+**Contact:** Cherris Armour, VP Fulfillment Operations  
 **Channel:** Email / Cold call (or both)
 
 ### Cold email
 
 **Subject:**  
-*[Subject line]*
+PIN THIS - AI Logistics for Membership Grocery
 
 **Body:**  
-*[2–4 short paragraphs, specific to this company—no generic template.]*
+Hi Cherris,
 
-### Cold call opener (if applicable)
+Hope you're doing well! I work with membership-based grocery retailers like Thrive Market across the country to fully automate their logistics operations with AI-powered freight management.
 
-*[30–60 seconds: hook, one clear question or value statement, ask for next step.]*
+With the current wave of AI adoption, logistics visibility and carrier optimization are some of the clearest areas for immediate impact—especially for companies managing multi-node fulfillment, cold-chain complexity, and high SKU counts.
+
+Our platform has helped companies like Daily Harvest and Little Spoon to eliminate manual spreadsheets and legacy TMS systems—even for complex refrigerated shipments across multiple fulfillment centers. The result: real-time carrier visibility, optimized freight spend, and more time for strategic fulfillment work.
+
+Would you be open to a brief call to see if this aligns with any initiatives you're exploring around carrier management or logistics systems? I'll keep it short and focused.
+
+Best,
+
+Christian Starcke  
+Owlery | Enterprise Sales | Raleigh, NC  
+Agentic AI in Logistics & Transportation Management
+
+### Cold call opener
+
+Hi there, is this Cherris?
+
+Hey Cherris, This is Christian Starcke & I'm giving you a call from Raleigh, NC with a company called Owlery — how is your day going so far?
+
+Awesome! And Cherris,
+
+I mentioned I'm reaching out from Owlery, as we're an AI Logistics Management Platform that automates the entire supply chain lifecycle.
+
+And for you, I was really curious of how y'all are handling logistics and carrier management today, and to see if there's any interest or initiatives around bringing AI+Automation into logistics management at Thrive?
 
 **Why this angle:**  
-*[Why this message and proof point for this company.]*
+Thrive Market's profile (membership grocery, DTC + retail, high SKU, perishable, multi-node) directly mirrors Daily Harvest and Little Spoon—Owlery's strongest references. Cherris, as VP Fulfillment Operations, owns end-to-end fulfillment and carrier strategy, so she feels the pain of freight spend and visibility daily. The email leads with AI adoption (familiar territory) and immediately connects to her operational reality: multi-node, cold-chain, high SKU complexity. Daily Harvest/Little Spoon are perfect proof points because they're in the same vertical with similar logistics challenges.
 
 **Why this channel:**  
-*[Why email and/or call for this account.]*
+Email is to establish context, an introduction, and allow her to research Owlery. Follow up with a cold call after the email goes off. The call opener is direct and asks a diagnostic question (TMS vs spreadsheets) that helps qualify interest quickly.
 
 ---
 
