@@ -79,7 +79,11 @@ Email is to establish context, an introduction, and allow her to research Owlery
 **If I started next week:**
 
 - **Priorities (top 3–5):**  
-  *[e.g. account research, list build, first outreach batch, first meetings, internal enablement.]*
+  **1) Nail the ICP and pipeline foundation:** Align with the team on “must-have” vs “nice-to-have” account criteria, then build and prioritize an initial target list (e.g., 50–100 accounts) across F&B, cold chain, CPG, and adjacent consumer brands that look like Daily Harvest, Little Spoon, Local Bounti, and Force of Nature.  
+  **2) Build and test a repeatable outbound motion:** Stand up core sequences (email, LI, call), test 2–3 messaging angles by persona (VP Fulfillment/Operations, Supply Chain, Logistics Systems), and start driving first conversations with logos like Thrive Market.  
+  **3) Get fluent in the product and customer stories:** Go deep on the platform via sandbox access, internal training, and customer case studies so I can run my own tailored demos and confidently tie features to specific logistics pains (multi-node, cold chain, carrier management).  
+  **4) Generate early, signal-rich pipeline:** Focus on booking a first wave of truly qualified meetings (clear logistics pain, budget/ownership identified) and converting them into 2–3 early-stage opportunities to validate fit and deal mechanics.  
+  **5) Create a simple, scalable sales toolkit:** Help refine the sales deck, PDF walkthrough, talk tracks, and objection handling based on what resonates in the first 30 days so we have a baseline “playbook” that can scale beyond just me.
 
 - **What I'd need from Owlery:**  
   Customer case studies with clear, quantifiable outcomes and access to past champions who are open to acting as references during active cycles. A simple, visual PDF walkthrough of the platform that I can send as collateral, plus a strong core sales deck I can customize. Full product access (demo/sandbox) so I can truly understand workflows, show the product live, and record short Loom-style demos. A basic tooling stack for outbound and deal execution: CRM access, a data provider (e.g., ZoomInfo/Apollo/Clearbit), a parallel dialer (e.g., Orum/Koncert/Klenty), an email outreach tool (e.g., Instantly.ai), a LinkedIn automation tool (e.g., HeyReach/Sprouts), and a note-taking assistant (e.g., Granola) for calls. Finally, time with the broader Owlery team to go deep on the roadmap, current customer use cases, and how they position Owlery so I can represent the product with confidence.
