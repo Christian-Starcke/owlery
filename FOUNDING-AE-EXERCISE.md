@@ -70,7 +70,7 @@ And for you, I was really curious of how y'all are handling logistics and carrie
 Thrive Market's profile (membership grocery, DTC + retail, high SKU, perishable, multi-node) directly mirrors Daily Harvest and Little Spoon—Owlery's strongest references. Cherris, as VP Fulfillment Operations, owns end-to-end fulfillment and carrier strategy, so she feels the pain of freight spend and visibility daily. The email leads with AI adoption (familiar territory) and immediately connects to her operational reality: multi-node, cold-chain, high SKU complexity. Daily Harvest/Little Spoon are perfect proof points because they're in the same vertical with similar logistics challenges.
 
 **Why this channel:**  
-Email is to establish context, an introduction, and allow her to research Owlery. Follow up with a cold call after the email goes off. The call opener is direct and asks a diagnostic question (TMS vs spreadsheets) that helps qualify interest quickly.
+Email is to establish context, an introduction, and allow her to research Owlery. The follow-up cold call then builds on that context with a conversational opener and a simple diagnostic question about how they’re handling logistics and carrier management today, and whether there are initiatives around bringing AI and automation into logistics at Thrive.
 
 ---
 
@@ -81,8 +81,8 @@ Email is to establish context, an introduction, and allow her to research Owlery
 - **Priorities (top 3–5):**  
   *[e.g. account research, list build, first outreach batch, first meetings, internal enablement.]*
 
-- **What I’d need from Owlery:**  
-  *[e.g. ICP criteria, case studies, deck, CRM/sequences, intro to Travis for role play prep.]*
+- **What I'd need from Owlery:**  
+  Customer case studies with clear, quantifiable outcomes and access to past champions who are open to acting as references during active cycles. A simple, visual PDF walkthrough of the platform that I can send as collateral, plus a strong core sales deck I can customize. Full product access (demo/sandbox) so I can truly understand workflows, show the product live, and record short Loom-style demos. A basic tooling stack for outbound and deal execution: CRM access, a data provider (e.g., ZoomInfo/Apollo/Clearbit), a parallel dialer (e.g., Orum/Koncert/Klenty), an email outreach tool (e.g., Instantly.ai), a LinkedIn automation tool (e.g., HeyReach/Sprouts), and a note-taking assistant (e.g., Granola) for calls. Finally, time with the broader Owlery team to go deep on the roadmap, current customer use cases, and how they position Owlery so I can represent the product with confidence.
 
 - **How I’d know the first 30 days were successful:**  
   Success in the first 30 days would be measured by establishing early pipeline and validating a repeatable outbound motion. I’d aim to generate the first qualified meetings with supply chain and logistics leaders at mid-market shippers while testing which messaging and segments convert best. Leading indicators would include meetings booked, early qualified opportunities created, and a clear view of which industries and personas respond most strongly to Owlery’s value proposition. By the end of month one, I’d expect a consistent outbound process running and the first meaningful pipeline in place. For me its all about building a systematic process that is repeatable & scalable.
